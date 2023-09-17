@@ -20,3 +20,4 @@ github.com/hugomods/icons/vendors/bootstrap v0.4.0 h1:+2r0aWG/qdsdLBtQ+b5VN7z3Kh
 github.com/hugomods/icons/vendors/bootstrap v0.4.0/go.mod h1:my/xxEyTvWAym67NVfhWRvdQKrHcscU43neIBXnlbfM=
 github.com/hugomods/icons/vendors/bootstrap v0.4.1/go.mod h1:3fXUsXdGZa+f31OEKUMDGsrCq1XZwhLvUys8XT63AZM=
 github.com/hugomods/icons/vendors/bootstrap v0.5.0/go.mod h1:kfC17VWV+tNi6PGF4AY7CJBBa1/HEgWxCYq2kNOdcdI=
+github.com/hugomods/icons/vendors/bootstrap v0.5.1/go.mod h1:tFEoO7zed/8FDT6LeKLGnzDbx7D8HK7ZaLshnF0RYjQ=
