@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.4.0](https://github.com/hbstack/noscript/compare/v0.3.0...v0.4.0) (2023-11-01)
+
+
+### Features
+
+* **i18n:** add Russian translations ([#85](https://github.com/hbstack/noscript/issues/85)) ([8e81a22](https://github.com/hbstack/noscript/commit/8e81a223c01d3623b0e639d9f361fed7ff14632a))
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-scss to v5.3.0 ([814cada](https://github.com/hbstack/noscript/commit/814cada01d4965a0feed7c8a9283a9158341566d))
+
 ## [0.3.0](https://github.com/hbstack/noscript/compare/v0.2.0...v0.3.0) (2023-10-21)
 
 
