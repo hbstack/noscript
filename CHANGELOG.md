@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.6.0](https://github.com/hbstack/noscript/compare/v0.5.0...v0.6.0) (2024-04-23)
+
+
+### Features
+
+* **i18n:** add German translations ([#168](https://github.com/hbstack/noscript/issues/168)) ([beea5fa](https://github.com/hbstack/noscript/commit/beea5faac90a95e2648f4e645f77679387503069))
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-scss to v6 ([71a2a08](https://github.com/hbstack/noscript/commit/71a2a08415cb8690102adf685814befd68420330))
+* **deps:** update dependency stylelint-scss to v6.1.0 ([67e86fb](https://github.com/hbstack/noscript/commit/67e86fb0798742b3f2bfc1525608ec3043273bc8))
+* **deps:** update dependency stylelint-scss to v6.2.0 ([721011d](https://github.com/hbstack/noscript/commit/721011d9d4159f72cc78bcafa6d2e415002e0724))
+* **deps:** update dependency stylelint-scss to v6.2.1 ([1c5ab35](https://github.com/hbstack/noscript/commit/1c5ab3538c70ee1b05b5d165b32757d4acb07ca9))
+
 ## [0.5.0](https://github.com/hbstack/noscript/compare/v0.4.0...v0.5.0) (2023-11-11)
 
 
