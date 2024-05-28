@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/hbstack/noscript/compare/v0.6.0...v0.7.0) (2024-05-28)
+
+
+### Features
+
+* **i18n:** add Vietnamese translations ([ac385bc](https://github.com/hbstack/noscript/commit/ac385bcbaca4c7ace62f4706c8eeff362710ed05))
+
 ## [0.6.0](https://github.com/hbstack/noscript/compare/v0.5.0...v0.6.0) (2024-04-23)
 
 
