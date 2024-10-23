@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.7.1](https://github.com/hbstack/noscript/compare/v0.7.0...v0.7.1) (2024-10-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency stylelint-scss to v6.4.1 ([e71418b](https://github.com/hbstack/noscript/commit/e71418be70fcad672dbd1c4e4870780b1775c5d2))
+* **deps:** update dependency stylelint-scss to v6.5.0 ([ed4c644](https://github.com/hbstack/noscript/commit/ed4c644a1032a5d897a739dddba1f7b351b66e34))
+* **deps:** update dependency stylelint-scss to v6.5.1 ([9d6fae7](https://github.com/hbstack/noscript/commit/9d6fae7ef656550f6020df7100862040735c851f))
+* **deps:** update dependency stylelint-scss to v6.6.0 ([40482db](https://github.com/hbstack/noscript/commit/40482db08820a22090eb70396a599d3fbce10913))
+* **deps:** update dependency stylelint-scss to v6.7.0 ([3fa8533](https://github.com/hbstack/noscript/commit/3fa8533ebbb9ee38d31fc2134b1e1e46182425ac))
+* **deps:** update dependency stylelint-scss to v6.8.0 ([b5fe850](https://github.com/hbstack/noscript/commit/b5fe850cdc3ec4fcffdbb2e437e9c1374a1cd50f))
+* **deps:** update dependency stylelint-scss to v6.8.1 ([cbf9897](https://github.com/hbstack/noscript/commit/cbf9897abb00bbe99722448e79eaa96724f3afb2))
+
 ## [0.7.0](https://github.com/hbstack/noscript/compare/v0.6.0...v0.7.0) (2024-05-28)
 
 
